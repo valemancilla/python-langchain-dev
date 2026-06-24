@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+postgres_data/
+
+# Artefactos generados por el taller RAG Nestlé
+app/resultados_nestle/
+chroma_nestle_ofertas_basicos/
